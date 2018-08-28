@@ -11,7 +11,7 @@ training_dir = "../training_data/programs_800_original/"
 query_dir = "../training_data/programs_200/"
 
 model_file = "../training_data/lstm_final_model_backup/trained_model"
-use_stored_model = True
+use_stored_model = False
 
 max_hole_size = 1
 simplify_tokens = True
